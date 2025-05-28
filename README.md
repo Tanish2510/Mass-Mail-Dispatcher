@@ -1,1 +1,2 @@
 # Mass-Mail-Dispatcher
+Mass Mail Dispatcher website, completed as a one-month internship project at EXPOSYS DATA LABS. The applicaon allows users to upload a CSV file containing email addresses, validate the email addresses for format correctness, and prepare them for bulk email sending (integraon with a secure email service is recommended but not implemented due to security concerns). The website provides a user friendly interface for managing email lists and sending bulk emails efficiently.
